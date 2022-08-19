@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <summary><strong>About Me</strong></summary> -->
 ### About Me
 
-My name is [Jay Sueno](https://www.linkedin.com/in/jaysueno) and I'm a novice data scientist with a [certificate](https://bootcamp.extension.ucsd.edu/data/) from UC San Diego in Data Science and Visualization. I believe that <strong>artifical intelligence</strong> and <strong>machine learning</strong> are the next industrial revolution and can be a cause for good in the world. It's up to humans like you and me to guide that future. 
+My name is [Vikas Pandey](https://www.linkedin.com/in/vikasomnp) and I'm a novice data scientist with a [certificate] from Masai in Data Science and Visualization. I believe that <strong>artifical intelligence</strong> and <strong>machine learning</strong> capture the most beautiful aspect of this universe which is growth and order in randomness and the study of it.
 
 One of the paradigms I ascribe to is <strong>intersectional activism</strong> to solve the challenges of our world. Climate change, inequality, environmental justice, technology, education, race, and human ingenuity are interconnected. I believe that through data we can find patterns and educate ourselves to choose the best decisions. 
 
@@ -34,10 +34,9 @@ One of the paradigms I ascribe to is <strong>intersectional activism</strong> to
 
 
 - 🔭 I’m currently applying to jobs in Data Science, Machine Learning, Data Analytics, and Project Management. If you are looking for a hardworking team member, look no further!
-- 🌱 I’m currently enrolled in Stanford's [Machine Learning Certificate](https://www.coursera.org/learn/machine-learning) by Andrew Ng
+- 🌱 I’m currently enrolled in Data Analysis/Science course from Masai.
 - 💬 Ask me about intersectional activism
-- 📫 How to reach me: www.linkedin.com/in/jaysueno
+- 📫 How to reach me: www.linkedin.com/in/vikasomnp
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I've surfed in 6 countries
-- 📸 Instagram: [@jay_sueno](https://www.instagram.com/jay_sueno) 
+- ⚡  
 </details>
