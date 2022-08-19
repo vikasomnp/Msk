@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikasomnp I am a visual story teller travelling in this realm of groups and symmetries 👀 for groups of people levreaging the power of 💞️Bid Data and 🌱AI to solve complex challenges faced by the world.
+- 👋 Hi, I’m @vikasomnp I am a visual story teller travelling in this realm of groups and symmetries 👀 for groups of people leveraging the power of 💞️Bid Data and 🌱AI to solve complex challenges faced by the world.
 - 📫 vikasomnp@gmail.com 
 
 <!---
